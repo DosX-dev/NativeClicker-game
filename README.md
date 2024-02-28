@@ -1,4 +1,4 @@
-# 🖱 NativeClicker
+# NativeClicker-game
 A simple clicker game with a graphical interface on VB6. Very legacy!
 
 This is my very old VB6 project. **I created it when I was a child 👦** and then made adjustments to the interface a couple of times in 2021 (just for fun)
@@ -6,6 +6,8 @@ This is my very old VB6 project. **I created it when I was a child 👦** and th
 ### [Download compiled as .EXE](https://github.com/DosX-dev/NativeClicker-game/releases/tag/Builds)
 
 ![](screen.jpg)
+
+![](editor.jpg)
 
 | Requirement | Minimum |
 |---|---|
